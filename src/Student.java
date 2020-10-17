@@ -9,7 +9,9 @@ public final class Student {
         this.name = _name;
     }
 
-    public int getId() { return this.id; }
+    public int getId() {
+        return this.id;
+    }
     public String getName(){
         return this.name;
     }
